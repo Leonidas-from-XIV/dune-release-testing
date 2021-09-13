@@ -2,10 +2,10 @@ opam-version: "2.0"
 maintainer: "Nathan Rebours <nathan.p.rebours@gmail.com>"
 author: "Nathan Rebours <nathan.p.rebours@gmail.com>"
 homepage: "me.com/dummy.html"
-bug-reports: "https://github.com/NathanReb/dune-release-testing/issues"
+bug-reports: "https://github.com/Leonidas-from-XIV/dune-release-testing/issues"
 license: "ISC"
-dev-repo: "git+https://github.com/NathanReb/dune-release-testing.git"
-doc: "https://nathanreb.github.io/dune-release-testing"
+dev-repo: "git+https://github.com/Leonidas-from-XIV/dune-release-testing.git"
+doc: "https://leonidas-from-xiv.github.io/dune-release-testing"
 build: [
   [ "dune" "build" "-p" name "-j" jobs ]
 ]

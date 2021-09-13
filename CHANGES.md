@@ -1,3 +1,7 @@
+## v0.3.0~beta3
+
+- Change the repo name to publish to
+
 ## v0.3.0~beta2
 
 - Change license
