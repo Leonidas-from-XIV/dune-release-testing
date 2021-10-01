@@ -1,3 +1,7 @@
+## v0.3.0~beta4
+
+- Checking what happens if I have a likewise named release already.
+
 ## v0.3.0~beta3
 
 - Change the repo name to publish to
