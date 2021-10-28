@@ -1,3 +1,7 @@
+## v0.3.0~beta5
+
+- Added a second package.
+
 ## v0.3.0~beta4
 
 - Checking what happens if I have a likewise named release already.
